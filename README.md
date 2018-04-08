@@ -1,2 +1,2 @@
 # recipe-calculator
-Recipe book that calculates portion sizes
+Recipe website that calculates portion sizes
